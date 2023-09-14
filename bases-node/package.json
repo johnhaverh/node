@@ -10,7 +10,7 @@
   "author": "John Herrera",
   "license": "MIT",
   "dependencies": {
-    "colores": "^1.0.1",
+    "colors": "^1.4.0",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
