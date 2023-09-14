@@ -1,0 +1,19 @@
+{
+  "name": "bases-node",
+  "version": "0.0.1",
+  "description": "Tablas de multiplicar con archivo",
+  "main": "app2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base=3"
+  },
+  "author": "John Herrera",
+  "license": "MIT",
+  "dependencies": {
+    "colores": "^1.0.1",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

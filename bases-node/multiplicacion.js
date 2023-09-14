@@ -1,7 +1,7 @@
 
 const {crearArchivo} = require('./helpers/multiplicar');
 
-const base = x
+const base = 5
 
 console.clear();
 
